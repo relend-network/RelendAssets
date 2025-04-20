@@ -1,0 +1,58 @@
+[
+    {
+        "name": "Swellchain",
+        "L1UnderlyingTokenName": "USDC",
+        "L1UnderlyingTokenAddress": "0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48",
+        "L1WrappedTokenName": "rUSDC-swell",
+        "L1WrappedTokenAddress": "0xCB35Be279968F6c53EBF73c8d9D5d7AAf4d34956",
+        "L1OFTAdapterAddress": "0x1939F8C45A7bAf32eBe309e6DA37de128ce4dD07",
+        "L2TokenName": "rUSDC-swell",
+        "L2TokenAddress": "0x9ab96A4668456896d45c301Bc3A15Cee76AA7B8D",
+        "L2TokenIsOFT": true,
+        "L2ChainID": 1923,
+        "L2ChainEVM": true,
+        "live": true
+    },
+    {
+        "name": "Sonic",
+        "L1UnderlyingTokenName": "USDC",
+        "L1UnderlyingTokenAddress": "0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48",
+        "L1WrappedTokenName": "rUSDC-sonic",
+        "L1WrappedTokenAddress": "0xE6C6f1bEfe53826eF84e9C263DE398c31e8cf05c",
+        "L1OFTAdapterAddress": "0xa791cd8D3cF2a3911BF926B9a5FE9443B2d63ac7",
+        "L2TokenName": "rUSDC-sonic",
+        "L2TokenAddress": "0x9ab96A4668456896d45c301Bc3A15Cee76AA7B8D",
+        "L2TokenIsOFT": true,
+        "L2ChainID": 146,
+        "L2ChainEVM": true,
+        "live": true
+    },
+    {
+        "name": "Hemi",
+        "L1UnderlyingTokenName": "USDC",
+        "L1UnderlyingTokenAddress": "0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48",
+        "L1WrappedTokenName": "rUSDC-hemi",
+        "L1WrappedTokenAddress": "0x4C4977EE52baa82437BC4C92343FFDE7EFEA904C",
+        "L1OFTAdapterAddress": "0x1608c1F28D07BCAAb1ED2D547b420578aF4Fd047",
+        "L2TokenName": "rUSDC-hemi",
+        "L2TokenAddress": "0x9ab96A4668456896d45c301Bc3A15Cee76AA7B8D",
+        "L2TokenIsOFT": true,
+        "L2ChainID": 43111,
+        "L2ChainEVM": true,
+        "live": true
+    },
+    {
+        "name": "Starknet",
+        "L1UnderlyingTokenName": "USDC",
+        "L1UnderlyingTokenAddress": "0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48",
+        "L1WrappedTokenName": "rUSDC-starknet",
+        "L1WrappedTokenAddress": "0x275bf5c13DE6a96aE1718bBb053AB1ADb006e867",
+        "L1OFTAdapterAddress": "0x0000000000000000000000000000000000000000",
+        "L2TokenName": "rUSDC-starknet",
+        "L2TokenAddress": "0x02019e47a0bc54ea6b4853c6123ffc8158ea3ae2af4166928b0de6e89f06de6c",
+        "L2TokenIsOFT": false,
+        "L2ChainID": -1,
+        "L2ChainEVM": false,
+        "live": true
+    }
+]
