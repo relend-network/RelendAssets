@@ -11,6 +11,8 @@
         "L2TokenIsOFT": true,
         "L2ChainID": 1923,
         "L2ChainEVM": true,
+        "BridgeUrl": "https://superbridge.swellnetwork.io/",
+        "wrappedTokenLogoURI": "https://raw.githubusercontent.com/relend-network/RelendAssets/refs/heads/main/Logos/rUSDC/Swell/rUSDC-swell.svg",
         "live": true
     },
     {
@@ -25,6 +27,8 @@
         "L2TokenIsOFT": true,
         "L2ChainID": 146,
         "L2ChainEVM": true,
+        "BridgeUrl": "https://stargate.finance/bridge",
+        "wrappedTokenLogoURI": "https://raw.githubusercontent.com/relend-network/RelendAssets/refs/heads/main/Logos/rUSDC/Sonic/rUSDC-sonic.svg",
         "live": true
     },
     {
@@ -39,6 +43,8 @@
         "L2TokenIsOFT": true,
         "L2ChainID": 43111,
         "L2ChainEVM": true,
+        "BridgeUrl": "https://stargate.finance/bridge",
+        "wrappedTokenLogoURI": "https://raw.githubusercontent.com/relend-network/RelendAssets/refs/heads/main/Logos/rUSDC/Hemi/rUSDC-hemi.svg",
         "live": true
     },
     {
@@ -53,6 +59,8 @@
         "L2TokenIsOFT": false,
         "L2ChainID": -1,
         "L2ChainEVM": false,
+        "BridgeUrl": "https://starkgate.starknet.io/ethereum/bridge?mode=deposit",
+        "wrappedTokenLogoURI": "https://raw.githubusercontent.com/relend-network/RelendAssets/refs/heads/main/Logos/rUSDC/Starknet/rUSDC-starknet.svg",
         "live": true
     },
     {
@@ -67,6 +75,56 @@
         "L2TokenIsOFT": false,
         "L2ChainID": 239,
         "L2ChainEVM": true,
+        "BridgeUrl": "https://tac.build/",
+        "wrappedTokenLogoURI": "https://raw.githubusercontent.com/relend-network/RelendAssets/refs/heads/main/Logos/rUSDC/Tac/rUSDC-tac.svg",
         "live": true
+    },
+    {
+        "name": "Bitlayer",
+        "L1UnderlyingTokenName": "USDC",
+        "L1UnderlyingTokenAddress": "0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48",
+        "L1WrappedTokenName": "rUSDC-bit",
+        "L1WrappedTokenAddress": "0x61F3e9C2B078f6245513a40035B5Ff0592896e41",
+        "L1OFTAdapterAddress": "0x0000000000000000000000000000000000000000",
+        "L2TokenName": "rUSDC-bit",
+        "L2TokenAddress": "0x01c5814d7b2e7e38f10d38128c8e5e219fe610fc7a36ad86b78afb325dd2d9bd",
+        "L2TokenIsOFT": true,
+        "L2ChainID": 167000,
+        "L2ChainEVM": true,
+        "BridgeUrl": "https://www.bitlayer.org/bridge",
+        "wrappedTokenLogoURI": "https://raw.githubusercontent.com/relend-network/RelendAssets/refs/heads/main/Logos/rUSDC/Hemi/rUSDC-hemi.svg",
+        "live": false
+    },
+    {
+        "name": "Taiko",
+        "L1UnderlyingTokenName": "USDC",
+        "L1UnderlyingTokenAddress": "0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48",
+        "L1WrappedTokenName": "rUSDC-taiko",
+        "L1WrappedTokenAddress": "0x469938C81CA23A35ACb14439cC068808f1cBAD7E",
+        "L1OFTAdapterAddress": "0x0000000000000000000000000000000000000000",
+        "L2TokenName": "rUSDC-taiko",
+        "L2TokenAddress": "0x6795c49F704a03583f766086f90194D72ccC8158",
+        "L2TokenIsOFT": true,
+        "L2ChainID": 167009,
+        "L2ChainEVM": true,
+        "BridgeUrl": "https://bridge.hekla.taiko.xyz/",
+        "wrappedTokenLogoURI": "https://raw.githubusercontent.com/relend-network/RelendAssets/refs/heads/main/Logos/rUSDC/Hemi/rUSDC-hemi.svg",
+        "live": false
+    },
+    {
+        "name": "Morph",
+        "L1UnderlyingTokenName": "USDC",
+        "L1UnderlyingTokenAddress": "0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48",
+        "L1WrappedTokenName": "rUSDC-morph",
+        "L1WrappedTokenAddress": "0x1593EC75d7Fd91F0bB921825453BfA6032915115",
+        "L1OFTAdapterAddress": "0x0000000000000000000000000000000000000000",
+        "L2TokenName": "rUSDC-morph",
+        "L2TokenAddress": "0x97D91024A97219fe10D154B00c26bAf1D49D955C",
+        "L2TokenIsOFT": true,
+        "L2ChainID": 167000,
+        "L2ChainEVM": true,
+        "BridgeUrl": "https://bridge-holesky.morphl2.io/",
+        "wrappedTokenLogoURI": "https://raw.githubusercontent.com/relend-network/RelendAssets/refs/heads/main/Logos/rUSDC/Hemi/rUSDC-hemi.svg",
+        "live": false
     }
 ]
