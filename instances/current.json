@@ -54,5 +54,19 @@
         "L2ChainID": -1,
         "L2ChainEVM": false,
         "live": true
+    },
+    {
+        "name": "Tac",
+        "L1UnderlyingTokenName": "USDC",
+        "L1UnderlyingTokenAddress": "0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48",
+        "L1WrappedTokenName": "rUSDC-tac",
+        "L1WrappedTokenAddress": "0x4Fb528c491EE4f2298044fb4C5b47C037E2A1528",
+        "L1OFTAdapterAddress": "0x0000000000000000000000000000000000000000",
+        "L2TokenName": "rUSDC-tac",
+        "L2TokenAddress": "0x0000000000000000000000000000000000000000",
+        "L2TokenIsOFT": false,
+        "L2ChainID": 239,
+        "L2ChainEVM": true,
+        "live": true
     }
 ]
