@@ -1,26 +1,24 @@
 [
   {
-    "name": "Admin",
-    "multisig": "0xbF3c9E899FfafE0235e453c56c0a298592477984",
-    "timelock": "0x7782C3f7337a7A5319Fdc57D725760B19111b26b"
+    "Ethereum": [
+      {
+        "Multisig Operational": "0x5BEa71d0FE596f72B876cbB0DB75afBC9B893447",
+        "Multisig Admin": "0xbF3c9E899FfafE0235e453c56c0a298592477984",
+        "Timelock Admin": "0x7782C3f7337a7A5319Fdc57D725760B19111b26b",
+        "Multisig Mint": "0x4d8522a4139e736f76174b38f4e53f717863998c",
+        "Timelock Mint": "0x71ba8b75e327bfcbcdf7dca9e7e4f79a022659a0",
+        "Multisig Swell": "0xbC15B3DB21311707b5e315e22A6F139f6205d2Ed",
+        "Timelock Swell": "0xe6b9f27fda36fd9c090937cb30f1bfe9fb2c6ce4",
+        "Multisig Hemi": "0xb8BF31D02A2d1Aaa29786e7ebC42E70Ad07445C3",
+        "Timelock Hemi": "0xcd4c67a263f2b28e4417e04e2ae08329a211943a"
+      }
+    ]
   },
   {
-    "name": "Mint",
-    "multisig": "0x4d8522a4139e736f76174b38f4e53f717863998c",
-    "timelock": "0x71ba8b75e327bfcbcdf7dca9e7e4f79a022659a0"
-  },
-  {
-    "name": "Starknet",
-    "multisig": "0x009DC9EF389Ac14e329153B758b8Fc204D44D4701Db98D3C707A39E05642501A"
-  },
-  {
-    "name": "Swell",
-    "multisig": "0xbC15B3DB21311707b5e315e22A6F139f6205d2Ed",
-    "timelock": "0xe6b9f27fda36fd9c090937cb30f1bfe9fb2c6ce4"
-  },
-  {
-    "name": "Hemi",
-    "multisig": "0xb8BF31D02A2d1Aaa29786e7ebC42E70Ad07445C3",
-    "timelock": "0xcd4c67a263f2b28e4417e04e2ae08329a211943a"
+    "Starknet": [
+      {
+        "Multisig USDC": "0x009DC9EF389Ac14e329153B758b8Fc204D44D4701Db98D3C707A39E05642501A"
+      }
+    ]
   }
 ]
