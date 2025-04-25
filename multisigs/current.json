@@ -1,11 +1,11 @@
 [
   {
     "Ethereum": {
-      "Multisig Operational": "0x5BEa71d0FE596f72B876cbB0DB75afBC9B893447",
       "Multisig Admin": "0xbF3c9E899FfafE0235e453c56c0a298592477984",
       "Timelock Admin": "0x7782C3f7337a7A5319Fdc57D725760B19111b26b",
       "Multisig Mint": "0x4d8522a4139e736f76174b38f4e53f717863998c",
-      "Timelock Mint": "0x71ba8b75e327bfcbcdf7dca9e7e4f79a022659a0"
+      "Timelock Mint": "0x71ba8b75e327bfcbcdf7dca9e7e4f79a022659a0",
+      "Multisig Operational": "0x5BEa71d0FE596f72B876cbB0DB75afBC9B893447"
     },
     "Swell": {
       "Multisig Admin": "0xbC15B3DB21311707b5e315e22A6F139f6205d2Ed",
