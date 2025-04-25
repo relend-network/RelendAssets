@@ -1,6 +1,7 @@
 [
   {
     "chain": "Ethereum",
+    "type": "evm",
     "contracts": [
       {
         "name": "Multisig Admin",
@@ -26,6 +27,7 @@
   },
   {
     "chain": "Swellchain",
+    "type": "evm",
     "contracts": [
       {
         "name": "Multisig Admin",
@@ -39,6 +41,7 @@
   },
   {
     "chain": "Hemi",
+    "type": "evm",
     "contracts": [
       {
         "name": "Multisig Admin",
@@ -52,6 +55,7 @@
   },
   {
     "chain": "Starknet",
+    "type": "stark",
     "contracts": [
       {
         "name": "Multisig Admin",
