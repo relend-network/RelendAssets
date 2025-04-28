@@ -12,7 +12,7 @@
         "L2ChainID": 1923,
         "L2ChainEVM": true,
         "BridgeUrl": "https://superbridge.swellnetwork.io/",
-        "wrappedTokenLogoURI": "https://raw.githubusercontent.com/relend-network/RelendAssets/refs/heads/main/Logos/rUSDC/Swell/rUSDC-swell.svg",
+        "wrappedTokenLogoURI": "https://raw.githubusercontent.com/relend-network/RelendAssets/refs/heads/main/logos/rUSDC/swell/rUSDC-swell.svg",
         "live": true,
         "display": true
     },
@@ -29,7 +29,7 @@
         "L2ChainID": 146,
         "L2ChainEVM": true,
         "BridgeUrl": "https://stargate.finance/bridge",
-        "wrappedTokenLogoURI": "https://raw.githubusercontent.com/relend-network/RelendAssets/refs/heads/main/Logos/rUSDC/Sonic/rUSDC-sonic.svg",
+        "wrappedTokenLogoURI": "https://raw.githubusercontent.com/relend-network/RelendAssets/refs/heads/main/logos/rUSDC/relend.svg",
         "live": true,
         "display": false
     },
@@ -46,7 +46,7 @@
         "L2ChainID": 43111,
         "L2ChainEVM": true,
         "BridgeUrl": "https://stargate.finance/bridge",
-        "wrappedTokenLogoURI": "https://raw.githubusercontent.com/relend-network/RelendAssets/refs/heads/main/Logos/rUSDC/Hemi/rUSDC-hemi.svg",
+        "wrappedTokenLogoURI": "https://raw.githubusercontent.com/relend-network/RelendAssets/refs/heads/main/logos/rUSDC/hemi/rUSDC-hemi.svg",
         "live": true,
         "display": false
     },
@@ -63,7 +63,7 @@
         "L2ChainID": -1,
         "L2ChainEVM": false,
         "BridgeUrl": "https://starkgate.starknet.io/ethereum/bridge?mode=deposit",
-        "wrappedTokenLogoURI": "https://raw.githubusercontent.com/relend-network/RelendAssets/refs/heads/main/Logos/rUSDC/Starknet/rUSDC-starknet.svg",
+        "wrappedTokenLogoURI": "https://raw.githubusercontent.com/relend-network/RelendAssets/refs/heads/main/logos/rUSDC/starknet/rUSDC-starknet.svg",
         "live": true,
         "display": true
     },
@@ -80,7 +80,7 @@
         "L2ChainID": 239,
         "L2ChainEVM": true,
         "BridgeUrl": "https://tac.build/",
-        "wrappedTokenLogoURI": "https://raw.githubusercontent.com/relend-network/RelendAssets/refs/heads/main/Logos/rUSDC/Tac/rUSDC-tac.svg",
+        "wrappedTokenLogoURI": "https://raw.githubusercontent.com/relend-network/RelendAssets/refs/heads/main/logos/rUSDC/tac/rUSDC-tac.svg",
         "live": true,
         "display": true
     },
@@ -97,7 +97,7 @@
         "L2ChainID": 167000,
         "L2ChainEVM": true,
         "BridgeUrl": "https://www.bitlayer.org/bridge",
-        "wrappedTokenLogoURI": "https://raw.githubusercontent.com/relend-network/RelendAssets/refs/heads/main/Logos/rUSDC/Hemi/rUSDC-hemi.svg",
+        "wrappedTokenLogoURI": "https://raw.githubusercontent.com/relend-network/RelendAssets/refs/heads/main/logos/rUSDC/hemi/rUSDC-hemi.svg",
         "live": false,
         "display": true
     },
@@ -114,7 +114,7 @@
         "L2ChainID": 167009,
         "L2ChainEVM": true,
         "BridgeUrl": "https://bridge.hekla.taiko.xyz/",
-        "wrappedTokenLogoURI": "https://raw.githubusercontent.com/relend-network/RelendAssets/refs/heads/main/Logos/rUSDC/Hemi/rUSDC-hemi.svg",
+        "wrappedTokenLogoURI": "https://raw.githubusercontent.com/relend-network/RelendAssets/refs/heads/main/logos/rUSDC/relend.svg",
         "live": false,
         "display": true
     },
@@ -131,7 +131,7 @@
         "L2ChainID": 167000,    
         "L2ChainEVM": true,
         "BridgeUrl": "https://bridge-holesky.morphl2.io/",
-        "wrappedTokenLogoURI": "https://raw.githubusercontent.com/relend-network/RelendAssets/refs/heads/main/Logos/rUSDC/Hemi/rUSDC-hemi.svg",
+        "wrappedTokenLogoURI": "https://raw.githubusercontent.com/relend-network/RelendAssets/refs/heads/main/logos/rUSDC/relend.svg",
         "live": false,
         "display": true
     },
@@ -147,8 +147,8 @@
         "L2TokenIsOFT": false,
         "L2ChainID": 56,
         "L2ChainEVM": true,
-        "BridgeUrl": "https://bridge.bsc.org/",
-        "wrappedTokenLogoURI": "https://raw.githubusercontent.com/relend-network/RelendAssets/refs/heads/main/Logos/rUSDC/Hemi/rUSDC-hemi.svg",
+        "BridgeUrl": "https://stargate.finance/bridge",
+        "wrappedTokenLogoURI": "https://raw.githubusercontent.com/relend-network/RelendAssets/refs/heads/main/logos/rUSDC/relend.svg",
         "live": false,
         "display": true
     },
@@ -164,8 +164,8 @@
         "L2TokenIsOFT": false,
         "L2ChainID": 42161,
         "L2ChainEVM": true,
-        "BridgeUrl": "https://bridge.arbitrum.io/",
-        "wrappedTokenLogoURI": "https://raw.githubusercontent.com/relend-network/RelendAssets/refs/heads/main/Logos/rUSDC/Hemi/rUSDC-hemi.svg",
+        "BridgeUrl": "https://stargate.finance/bridge",
+        "wrappedTokenLogoURI": "https://raw.githubusercontent.com/relend-network/RelendAssets/refs/heads/main/logos/rUSDC/relend.svg",
         "live": false,
         "display": true
     },
@@ -181,8 +181,8 @@
         "L2TokenIsOFT": false,
         "L2ChainID": 10,
         "L2ChainEVM": true,
-        "BridgeUrl": "https://bridge.optimism.io/",
-        "wrappedTokenLogoURI": "https://raw.githubusercontent.com/relend-network/RelendAssets/refs/heads/main/Logos/rUSDC/Hemi/rUSDC-hemi.svg",
+        "BridgeUrl": "https://stargate.finance/bridge",
+        "wrappedTokenLogoURI": "https://raw.githubusercontent.com/relend-network/RelendAssets/refs/heads/main/logos/rUSDC/relend.svg",
         "live": false,
         "display": true
     },
@@ -198,8 +198,8 @@
         "L2TokenIsOFT": false,
         "L2ChainID": 10,
         "L2ChainEVM": true,
-        "BridgeUrl": "https://bridge.optimism.io/",
-        "wrappedTokenLogoURI": "https://raw.githubusercontent.com/relend-network/RelendAssets/refs/heads/main/Logos/rUSDC/Hemi/rUSDC-hemi.svg",
+        "BridgeUrl": "https://stargate.finance/bridge",
+        "wrappedTokenLogoURI": "https://raw.githubusercontent.com/relend-network/RelendAssets/refs/heads/main/logos/rUSDC/relend.svg",
         "live": false,
         "display": true
     },
@@ -215,9 +215,9 @@
         "L2TokenIsOFT": false,
         "L2ChainID": 10,
         "L2ChainEVM": true,
-        "BridgeUrl": "https://bridge.optimism.io/",
-        "wrappedTokenLogoURI": "https://raw.githubusercontent.com/relend-network/RelendAssets/refs/heads/main/Logos/rUSDC/Hemi/rUSDC-hemi.svg",
+        "BridgeUrl": "https://stargate.finance/bridge",
+        "wrappedTokenLogoURI": "https://raw.githubusercontent.com/relend-network/RelendAssets/refs/heads/main/logos/rUSDC/relend.svg",
         "live": false,
         "display": true
     }
-]
+  ]
