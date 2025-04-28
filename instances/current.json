@@ -126,5 +126,53 @@
         "BridgeUrl": "https://bridge-holesky.morphl2.io/",
         "wrappedTokenLogoURI": "https://raw.githubusercontent.com/relend-network/RelendAssets/refs/heads/main/Logos/rUSDC/Hemi/rUSDC-hemi.svg",
         "live": false
+    },
+    {
+        "name": "BSC",
+        "L1UnderlyingTokenName": "USDC",
+        "L1UnderlyingTokenAddress": "0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48",
+        "L1WrappedTokenName": "rUSDC-bsc",
+        "L1WrappedTokenAddress": "0x0000000000000000000000000000000000000000",
+        "L1OFTAdapterAddress": "0x0000000000000000000000000000000000000000",
+        "L2TokenName": "rUSDC-bsc",
+        "L2TokenAddress": "0x0000000000000000000000000000000000000000",
+        "L2TokenIsOFT": false,
+        "L2ChainID": 56,
+        "L2ChainEVM": true,
+        "BridgeUrl": "https://bridge.bsc.org/",
+        "wrappedTokenLogoURI": "https://raw.githubusercontent.com/relend-network/RelendAssets/refs/heads/main/Logos/rUSDC/Hemi/rUSDC-hemi.svg",
+        "live": false
+    },
+    {
+        "name": "Arbitrum",
+        "L1UnderlyingTokenName": "USDC",
+        "L1UnderlyingTokenAddress": "0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48",
+        "L1WrappedTokenName": "rUSDC-arbitrum",
+        "L1WrappedTokenAddress": "0x0000000000000000000000000000000000000000",
+        "L1OFTAdapterAddress": "0x0000000000000000000000000000000000000000",
+        "L2TokenName": "rUSDC-arbitrum",
+        "L2TokenAddress": "0x0000000000000000000000000000000000000000",
+        "L2TokenIsOFT": false,
+        "L2ChainID": 42161,
+        "L2ChainEVM": true,
+        "BridgeUrl": "https://bridge.arbitrum.io/",
+        "wrappedTokenLogoURI": "https://raw.githubusercontent.com/relend-network/RelendAssets/refs/heads/main/Logos/rUSDC/Hemi/rUSDC-hemi.svg",
+        "live": false
+    },
+    {
+        "name": "Optimism",
+        "L1UnderlyingTokenName": "USDC",
+        "L1UnderlyingTokenAddress": "0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48",
+        "L1WrappedTokenName": "rUSDC-optimism",
+        "L1WrappedTokenAddress": "0x0000000000000000000000000000000000000000",
+        "L1OFTAdapterAddress": "0x0000000000000000000000000000000000000000",
+        "L2TokenName": "rUSDC-optimism",
+        "L2TokenAddress": "0x0000000000000000000000000000000000000000",
+        "L2TokenIsOFT": false,
+        "L2ChainID": 10,
+        "L2ChainEVM": true,
+        "BridgeUrl": "https://bridge.optimism.io/",
+        "wrappedTokenLogoURI": "https://raw.githubusercontent.com/relend-network/RelendAssets/refs/heads/main/Logos/rUSDC/Hemi/rUSDC-hemi.svg",
+        "live": false
     }
 ]
