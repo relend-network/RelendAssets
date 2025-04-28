@@ -174,5 +174,37 @@
         "BridgeUrl": "https://bridge.optimism.io/",
         "wrappedTokenLogoURI": "https://raw.githubusercontent.com/relend-network/RelendAssets/refs/heads/main/Logos/rUSDC/Hemi/rUSDC-hemi.svg",
         "live": false
+    },
+    {
+        "name": "Monad",
+        "L1UnderlyingTokenName": "USDC",
+        "L1UnderlyingTokenAddress": "0xe88a217b3C00eFf21e02B83991e0a1BAFeA084Ca",
+        "L1WrappedTokenName": "rUSDC-monad",
+        "L1WrappedTokenAddress": "0x5F3D1c2C85057DA94bc41fAA32925F3a69Ba02e4",
+        "L1OFTAdapterAddress": "0x0000000000000000000000000000000000000000",
+        "L2TokenName": "rUSDC-monad",
+        "L2TokenAddress": "0x0000000000000000000000000000000000000000",
+        "L2TokenIsOFT": false,
+        "L2ChainID": 10,
+        "L2ChainEVM": true,
+        "BridgeUrl": "https://bridge.optimism.io/",
+        "wrappedTokenLogoURI": "https://raw.githubusercontent.com/relend-network/RelendAssets/refs/heads/main/Logos/rUSDC/Hemi/rUSDC-hemi.svg",
+        "live": false
+    },
+    {
+        "name": "Soneium",
+        "L1UnderlyingTokenName": "USDC",
+        "L1UnderlyingTokenAddress": "0xe88a217b3C00eFf21e02B83991e0a1BAFeA084Ca",
+        "L1WrappedTokenName": "rUSDC-soneium",
+        "L1WrappedTokenAddress": "0x9ED5131E321e3A6f304F5FDfe1c856CE674676e9",
+        "L1OFTAdapterAddress": "0x0000000000000000000000000000000000000000",
+        "L2TokenName": "rUSDC-soneium",
+        "L2TokenAddress": "0x0000000000000000000000000000000000000000",
+        "L2TokenIsOFT": false,
+        "L2ChainID": 10,
+        "L2ChainEVM": true,
+        "BridgeUrl": "https://bridge.optimism.io/",
+        "wrappedTokenLogoURI": "https://raw.githubusercontent.com/relend-network/RelendAssets/refs/heads/main/Logos/rUSDC/Hemi/rUSDC-hemi.svg",
+        "live": false
     }
 ]
