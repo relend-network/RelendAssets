@@ -13,6 +13,7 @@ export interface Instance {
     L2ChainID: number;
     L2ChainEVM: boolean;
     live: boolean;
+    display: boolean;
 }
 
 export type Instances = Instance[]; 
