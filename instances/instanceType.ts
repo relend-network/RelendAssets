@@ -21,7 +21,6 @@ export interface Instance {
 export interface L2LendingMarket {
     name: string;
     vaultAddress: string;
-    vaultAbi: string;
 }
 
 export type Instances = Instance[]; 
