@@ -14,6 +14,7 @@ export interface Instance {
     L2ChainEVM: boolean;
     live: boolean;
     display: boolean;
+    morphoMarketId?: string;
     L2LendingMarket?: L2LendingMarket;
 }
 

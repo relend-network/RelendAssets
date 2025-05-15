@@ -15,6 +15,7 @@
         "wrappedTokenLogoURI": "https://raw.githubusercontent.com/relend-network/RelendAssets/refs/heads/main/logos/rUSDC/swell/rUSDC-swell.svg",
         "live": true,
         "display": true,
+        "morphoMarketId": "0x50a88868a780b6dfe8330ac4088f38db93d1bad7e9a03bda6605a9abe36936af",
         "L2LendingMarket": {
             "name": "Euler",
             "vaultAddress": "0xc5976e0356f0A3Ce8307fF08C88bB05933F88761"
@@ -69,7 +70,8 @@
         "BridgeUrl": "https://starkgate.starknet.io/ethereum/bridge?mode=deposit",
         "wrappedTokenLogoURI": "https://raw.githubusercontent.com/relend-network/RelendAssets/refs/heads/main/logos/rUSDC/starknet/rUSDC-starknet.svg",
         "live": true,
-        "display": true
+        "display": true,
+        "morphoMarketId": "0xca1d04d6c883d8b4ad6d56b9f392c08a0f6bec816744e355b75d56a4c848557a"
     },
     {
         "name": "Tac",
@@ -86,7 +88,8 @@
         "BridgeUrl": "https://tac.build/",
         "wrappedTokenLogoURI": "https://raw.githubusercontent.com/relend-network/RelendAssets/refs/heads/main/logos/rUSDC/tac/rUSDC-tac.svg",
         "live": true,
-        "display": true
+        "display": true,
+        "morphoMarketId": "0x04ded70fb239f5c5a2b2a0b62bb4e00e44796b891f3d853819cb1c19c03a252d"
     },
     {
         "name": "Bitlayer",
