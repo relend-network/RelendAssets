@@ -14,7 +14,11 @@
         "BridgeUrl": "https://superbridge.swellnetwork.io/",
         "wrappedTokenLogoURI": "https://raw.githubusercontent.com/relend-network/RelendAssets/refs/heads/main/logos/rUSDC/swell/rUSDC-swell.svg",
         "live": true,
-        "display": true
+        "display": true,
+        "L2LendingMarket": {
+            "name": "Euler",
+            "vaultAddress": "0xc5976e0356f0A3Ce8307fF08C88bB05933F88761"
+        }
     },
     {
         "name": "Sonic",
@@ -128,7 +132,7 @@
         "L2TokenName": "rUSDC-morph",
         "L2TokenAddress": "0x97D91024A97219fe10D154B00c26bAf1D49D955C",
         "L2TokenIsOFT": true,
-        "L2ChainID": 167000,    
+        "L2ChainID": 167000,
         "L2ChainEVM": true,
         "BridgeUrl": "https://bridge-holesky.morphl2.io/",
         "wrappedTokenLogoURI": "https://raw.githubusercontent.com/relend-network/RelendAssets/refs/heads/main/logos/rUSDC/relend.svg",
@@ -220,4 +224,4 @@
         "live": false,
         "display": true
     }
-  ]
+]
