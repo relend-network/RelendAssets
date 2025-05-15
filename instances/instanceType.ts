@@ -14,7 +14,7 @@ export interface Instance {
     L2ChainEVM: boolean;
     live: boolean;
     display: boolean;
-    lending?: L2LendingMarket;
+    L2LendingMarket?: L2LendingMarket;
 }
 
 
