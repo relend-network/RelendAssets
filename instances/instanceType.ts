@@ -14,6 +14,14 @@ export interface Instance {
     L2ChainEVM: boolean;
     live: boolean;
     display: boolean;
+    lending?: L2LendingMarket;
+}
+
+
+export interface L2LendingMarket {
+    name: string;
+    vaultAddress: string;
+    vaultAbi: string;
 }
 
 export type Instances = Instance[]; 
