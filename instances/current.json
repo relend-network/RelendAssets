@@ -230,5 +230,22 @@
         "wrappedTokenLogoURI": "https://raw.githubusercontent.com/relend-network/RelendAssets/refs/heads/main/logos/rUSDC/relend.svg",
         "live": false,
         "display": true
+    },
+    {
+        "name": "Hyperliquid",
+        "L1UnderlyingTokenName": "USDC",
+        "L1UnderlyingTokenAddress": "0xe88a217b3C00eFf21e02B83991e0a1BAFeA084Ca",
+        "L1WrappedTokenName": "rUSDC-hyper",
+        "L1WrappedTokenAddress": "0x8fe93f99C126D2dcc041f56dC3a6f1570dFF9857",
+        "L1OFTAdapterAddress": "0x9223ee6698FFa0a66CAFb0034141D931E393A67E",
+        "L2TokenName": "rUSDC-hyper",
+        "L2TokenAddress": "0x9ab96A4668456896d45c301Bc3A15Cee76AA7B8D",
+        "L2TokenIsOFT": true,
+        "L2ChainID": 999,
+        "L2ChainEVM": true,
+        "BridgeUrl": "",
+        "wrappedTokenLogoURI": "",
+        "live": false,
+        "display": true
     }
 ]

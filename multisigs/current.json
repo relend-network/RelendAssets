@@ -62,5 +62,19 @@
         "address": "0x009DC9EF389Ac14e329153B758b8Fc204D44D4701Db98D3C707A39E05642501A"
       }
     ]
+  },
+  {
+    "chain": "Hyperliquid",
+    "type": "evm",
+    "contracts": [
+      {
+        "name": "Multisig Admin",
+        "address": "0x3e3A26F7b66e5b45F4C31d8718FAF01dfA8cb005"
+      },
+      {
+        "name": "Timelock Admin",
+        "address": "0x543A23Fb1eeD644702aF423102952c004Ca74601"
+      }
+    ]
   }
 ]
