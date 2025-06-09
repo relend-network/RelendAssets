@@ -245,7 +245,7 @@
         "L2ChainEVM": true,
         "BridgeUrl": "",
         "wrappedTokenLogoURI": "",
-        "live": false,
+        "live": true,
         "display": true
     }
 ]
