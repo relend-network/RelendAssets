@@ -13,7 +13,8 @@
         "L2ChainEVM": true,
         "BridgeUrl": "https://superbridge.swellnetwork.io/",
         "wrappedTokenLogoURI": "https://raw.githubusercontent.com/relend-network/RelendAssets/refs/heads/main/Logos/rUSDC/Swell/rUSDC-swell.svg",
-        "live": true
+        "live": true,
+        "network": "Ethreum"
     },
     {
         "name": "Sonic",
@@ -29,7 +30,8 @@
         "L2ChainEVM": true,
         "BridgeUrl": "https://stargate.finance/bridge",
         "wrappedTokenLogoURI": "https://raw.githubusercontent.com/relend-network/RelendAssets/refs/heads/main/Logos/rUSDC/Sonic/rUSDC-sonic.svg",
-        "live": true
+        "live": true,
+        "network": "Ethreum"
     },
     {
         "name": "Hemi",
@@ -45,7 +47,8 @@
         "L2ChainEVM": true,
         "BridgeUrl": "https://stargate.finance/bridge",
         "wrappedTokenLogoURI": "https://raw.githubusercontent.com/relend-network/RelendAssets/refs/heads/main/Logos/rUSDC/Hemi/rUSDC-hemi.svg",
-        "live": true
+        "live": true,
+        "network": "Ethreum"
     },
     {
         "name": "Starknet",
@@ -61,7 +64,8 @@
         "L2ChainEVM": false,
         "BridgeUrl": "https://starkgate.starknet.io/ethereum/bridge?mode=deposit",
         "wrappedTokenLogoURI": "https://raw.githubusercontent.com/relend-network/RelendAssets/refs/heads/main/Logos/rUSDC/Starknet/rUSDC-starknet.svg",
-        "live": true
+        "live": true,
+        "network": "Ethreum"
     },
     {
         "name": "Tac",
@@ -77,7 +81,8 @@
         "L2ChainEVM": true,
         "BridgeUrl": "https://tac.build/",
         "wrappedTokenLogoURI": "https://raw.githubusercontent.com/relend-network/RelendAssets/refs/heads/main/Logos/rUSDC/Tac/rUSDC-tac.svg",
-        "live": true
+        "live": true,
+        "network": "Ethreum"
     },
     {
         "name": "Bitlayer",
@@ -93,7 +98,8 @@
         "L2ChainEVM": true,
         "BridgeUrl": "https://www.bitlayer.org/bridge",
         "wrappedTokenLogoURI": "https://raw.githubusercontent.com/relend-network/RelendAssets/refs/heads/main/Logos/rUSDC/Hemi/rUSDC-hemi.svg",
-        "live": false
+        "live": false,
+        "network": "Bitlayer"
     },
     {
         "name": "Taiko",
@@ -109,7 +115,8 @@
         "L2ChainEVM": true,
         "BridgeUrl": "https://bridge.hekla.taiko.xyz/",
         "wrappedTokenLogoURI": "https://raw.githubusercontent.com/relend-network/RelendAssets/refs/heads/main/Logos/rUSDC/Hemi/rUSDC-hemi.svg",
-        "live": false
+        "live": false,
+        "network": "Hekla"
     },
     {
         "name": "Morph",
@@ -125,6 +132,7 @@
         "L2ChainEVM": true,
         "BridgeUrl": "https://bridge-holesky.morphl2.io/",
         "wrappedTokenLogoURI": "https://raw.githubusercontent.com/relend-network/RelendAssets/refs/heads/main/Logos/rUSDC/Hemi/rUSDC-hemi.svg",
-        "live": false
+        "live": false,
+        "network": "Holesky"
     }
 ]
