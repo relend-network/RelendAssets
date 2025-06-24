@@ -14,7 +14,7 @@
         "BridgeUrl": "https://superbridge.swellnetwork.io/",
         "wrappedTokenLogoURI": "https://raw.githubusercontent.com/relend-network/RelendAssets/refs/heads/main/Logos/rUSDC/Swell/rUSDC-swell.svg",
         "live": true,
-        "network": "Ethreum"
+        "network": "Ethereum"
     },
     {
         "name": "Sonic",
@@ -31,7 +31,7 @@
         "BridgeUrl": "https://stargate.finance/bridge",
         "wrappedTokenLogoURI": "https://raw.githubusercontent.com/relend-network/RelendAssets/refs/heads/main/Logos/rUSDC/Sonic/rUSDC-sonic.svg",
         "live": true,
-        "network": "Ethreum"
+        "network": "Ethereum"
     },
     {
         "name": "Hemi",
@@ -48,7 +48,7 @@
         "BridgeUrl": "https://stargate.finance/bridge",
         "wrappedTokenLogoURI": "https://raw.githubusercontent.com/relend-network/RelendAssets/refs/heads/main/Logos/rUSDC/Hemi/rUSDC-hemi.svg",
         "live": true,
-        "network": "Ethreum"
+        "network": "Ethereum"
     },
     {
         "name": "Starknet",
@@ -65,7 +65,7 @@
         "BridgeUrl": "https://starkgate.starknet.io/ethereum/bridge?mode=deposit",
         "wrappedTokenLogoURI": "https://raw.githubusercontent.com/relend-network/RelendAssets/refs/heads/main/Logos/rUSDC/Starknet/rUSDC-starknet.svg",
         "live": true,
-        "network": "Ethreum"
+        "network": "Ethereum"
     },
     {
         "name": "Tac",
@@ -82,7 +82,7 @@
         "BridgeUrl": "https://tac.build/",
         "wrappedTokenLogoURI": "https://raw.githubusercontent.com/relend-network/RelendAssets/refs/heads/main/Logos/rUSDC/Tac/rUSDC-tac.svg",
         "live": true,
-        "network": "Ethreum"
+        "network": "Ethereum"
     },
     {
         "name": "Bitlayer",
