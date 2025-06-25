@@ -15,6 +15,7 @@
         "wrappedTokenLogoURI": "https://raw.githubusercontent.com/relend-network/RelendAssets/refs/heads/main/Logos/rUSDC/Swell/rUSDC-swell.svg",
         "live": true,
         "network": "Ethereum",
+        "L2BridgeAddress": "0x4200000000000000000000000000000000000010",
         "bridgeAddress": "0x7aa4960908b13d104bf056b23e2c76b43c5aacc8"
     },
     {
@@ -33,6 +34,7 @@
         "wrappedTokenLogoURI": "https://raw.githubusercontent.com/relend-network/RelendAssets/refs/heads/main/Logos/rUSDC/Sonic/rUSDC-sonic.svg",
         "live": true,
         "network": "Ethereum",
+        "L2BridgeAddress": "0x0000000000000000000000000000000000000000",
         "bridgeAddress": "0x0000000000000000000000000000000000000000"
     },
     {
@@ -51,6 +53,7 @@
         "wrappedTokenLogoURI": "https://raw.githubusercontent.com/relend-network/RelendAssets/refs/heads/main/Logos/rUSDC/Hemi/rUSDC-hemi.svg",
         "live": true,
         "network": "Ethereum",
+        "L2BridgeAddress": "0x0000000000000000000000000000000000000000",
         "bridgeAddress": "0x0000000000000000000000000000000000000000"
     },
     {
@@ -69,6 +72,7 @@
         "wrappedTokenLogoURI": "https://raw.githubusercontent.com/relend-network/RelendAssets/refs/heads/main/Logos/rUSDC/Starknet/rUSDC-starknet.svg",
         "live": true,
         "network": "Ethereum",
+        "L2BridgeAddress": "0x0000000000000000000000000000000000000000",
         "bridgeAddress": "0x0000000000000000000000000000000000000000"
     },
     {
@@ -87,6 +91,7 @@
         "wrappedTokenLogoURI": "https://raw.githubusercontent.com/relend-network/RelendAssets/refs/heads/main/Logos/rUSDC/Tac/rUSDC-tac.svg",
         "live": true,
         "network": "Ethereum",
+        "L2BridgeAddress": "0x0000000000000000000000000000000000000000",
         "bridgeAddress": "0x0000000000000000000000000000000000000000"
     },
     {
@@ -105,6 +110,7 @@
         "wrappedTokenLogoURI": "https://raw.githubusercontent.com/relend-network/RelendAssets/refs/heads/main/Logos/rUSDC/Hemi/rUSDC-hemi.svg",
         "live": false,
         "network": "Bitlayer",
+        "L2BridgeAddress": "0x0000000000000000000000000000000000000000",
         "bridgeAddress": "0x0000000000000000000000000000000000000000"
     },
     {
@@ -123,6 +129,7 @@
         "wrappedTokenLogoURI": "https://raw.githubusercontent.com/relend-network/RelendAssets/refs/heads/main/Logos/rUSDC/Hemi/rUSDC-hemi.svg",
         "live": false,
         "network": "Hekla",
+        "L2BridgeAddress": "0x0000000000000000000000000000000000000000",
         "bridgeAddress": "0x0000000000000000000000000000000000000000"
     },
     {
@@ -141,6 +148,7 @@
         "wrappedTokenLogoURI": "https://raw.githubusercontent.com/relend-network/RelendAssets/refs/heads/main/Logos/rUSDC/Hemi/rUSDC-hemi.svg",
         "live": false,
         "network": "Holesky",
+        "L2BridgeAddress": "0x0000000000000000000000000000000000000000",
         "bridgeAddress": "0x0000000000000000000000000000000000000000"
     }
 ]
