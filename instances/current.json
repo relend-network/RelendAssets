@@ -14,7 +14,8 @@
         "BridgeUrl": "https://superbridge.swellnetwork.io/",
         "wrappedTokenLogoURI": "https://raw.githubusercontent.com/relend-network/RelendAssets/refs/heads/main/Logos/rUSDC/Swell/rUSDC-swell.svg",
         "live": true,
-        "network": "Ethereum"
+        "network": "Ethereum",
+        "bridgeAddress": "0x7aa4960908b13d104bf056b23e2c76b43c5aacc8"
     },
     {
         "name": "Sonic",
@@ -31,7 +32,8 @@
         "BridgeUrl": "https://stargate.finance/bridge",
         "wrappedTokenLogoURI": "https://raw.githubusercontent.com/relend-network/RelendAssets/refs/heads/main/Logos/rUSDC/Sonic/rUSDC-sonic.svg",
         "live": true,
-        "network": "Ethereum"
+        "network": "Ethereum",
+        "bridgeAddress": "0x0000000000000000000000000000000000000000"
     },
     {
         "name": "Hemi",
@@ -48,7 +50,8 @@
         "BridgeUrl": "https://stargate.finance/bridge",
         "wrappedTokenLogoURI": "https://raw.githubusercontent.com/relend-network/RelendAssets/refs/heads/main/Logos/rUSDC/Hemi/rUSDC-hemi.svg",
         "live": true,
-        "network": "Ethereum"
+        "network": "Ethereum",
+        "bridgeAddress": "0x0000000000000000000000000000000000000000"
     },
     {
         "name": "Starknet",
@@ -65,7 +68,8 @@
         "BridgeUrl": "https://starkgate.starknet.io/ethereum/bridge?mode=deposit",
         "wrappedTokenLogoURI": "https://raw.githubusercontent.com/relend-network/RelendAssets/refs/heads/main/Logos/rUSDC/Starknet/rUSDC-starknet.svg",
         "live": true,
-        "network": "Ethereum"
+        "network": "Ethereum",
+        "bridgeAddress": "0x0000000000000000000000000000000000000000"
     },
     {
         "name": "Tac",
@@ -82,7 +86,8 @@
         "BridgeUrl": "https://tac.build/",
         "wrappedTokenLogoURI": "https://raw.githubusercontent.com/relend-network/RelendAssets/refs/heads/main/Logos/rUSDC/Tac/rUSDC-tac.svg",
         "live": true,
-        "network": "Ethereum"
+        "network": "Ethereum",
+        "bridgeAddress": "0x0000000000000000000000000000000000000000"
     },
     {
         "name": "Bitlayer",
@@ -99,7 +104,8 @@
         "BridgeUrl": "https://www.bitlayer.org/bridge",
         "wrappedTokenLogoURI": "https://raw.githubusercontent.com/relend-network/RelendAssets/refs/heads/main/Logos/rUSDC/Hemi/rUSDC-hemi.svg",
         "live": false,
-        "network": "Bitlayer"
+        "network": "Bitlayer",
+        "bridgeAddress": "0x0000000000000000000000000000000000000000"
     },
     {
         "name": "Taiko",
@@ -116,7 +122,8 @@
         "BridgeUrl": "https://bridge.hekla.taiko.xyz/",
         "wrappedTokenLogoURI": "https://raw.githubusercontent.com/relend-network/RelendAssets/refs/heads/main/Logos/rUSDC/Hemi/rUSDC-hemi.svg",
         "live": false,
-        "network": "Hekla"
+        "network": "Hekla",
+        "bridgeAddress": "0x0000000000000000000000000000000000000000"
     },
     {
         "name": "Morph",
@@ -133,6 +140,7 @@
         "BridgeUrl": "https://bridge-holesky.morphl2.io/",
         "wrappedTokenLogoURI": "https://raw.githubusercontent.com/relend-network/RelendAssets/refs/heads/main/Logos/rUSDC/Hemi/rUSDC-hemi.svg",
         "live": false,
-        "network": "Holesky"
+        "network": "Holesky",
+        "bridgeAddress": "0x0000000000000000000000000000000000000000"
     }
 ]
