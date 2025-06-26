@@ -34,8 +34,8 @@
         "wrappedTokenLogoURI": "https://raw.githubusercontent.com/relend-network/RelendAssets/refs/heads/main/Logos/rUSDC/Sonic/rUSDC-sonic.svg",
         "live": true,
         "network": "Ethereum",
-        "L1BridgeAddress": "0x0000000000000000000000000000000000000000",
-        "L2BridgeAddress": "0x0000000000000000000000000000000000000000"
+        "L1BridgeAddress": "0xa1E2481a9CD0Cb0447EeB1cbc26F1b3fff3bec20",
+        "L2BridgeAddress": "0x9Ef7629F9B930168b76283AdD7120777b3c895b3"
     },
     {
         "name": "Hemi",
