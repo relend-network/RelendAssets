@@ -111,7 +111,7 @@
         "live": false,
         "network": "Bitlayer",
         "L1BridgeAddress": "0x0000000000000000000000000000000000000000",
-        "L1BridgeAddress": "0x0000000000000000000000000000000000000000"
+        "L2BridgeAddress": "0x0000000000000000000000000000000000000000"
     },
     {
         "name": "Taiko",
