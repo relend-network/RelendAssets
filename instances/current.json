@@ -16,7 +16,13 @@
         "live": true,
         "network": "Ethereum",
         "L1BridgeAddress": "0x7aa4960908b13d104bf056b23e2c76b43c5aacc8",
-        "L2BridgeAddress": "0x4200000000000000000000000000000000000010"
+        "L2BridgeAddress": "0x4200000000000000000000000000000000000010",
+        "lending": [
+            {
+                "type": "Euler",
+                "address": "0xc5976e0356f0A3Ce8307fF08C88bB05933F88761"
+            }
+        ]
     },
     {
         "name": "Sonic",
@@ -35,7 +41,13 @@
         "live": true,
         "network": "Ethereum",
         "L1BridgeAddress": "0xa1E2481a9CD0Cb0447EeB1cbc26F1b3fff3bec20",
-        "L2BridgeAddress": "0x9Ef7629F9B930168b76283AdD7120777b3c895b3"
+        "L2BridgeAddress": "0x9Ef7629F9B930168b76283AdD7120777b3c895b3",
+        "lending": [
+            {
+                "type": "Unknown",
+                "address": "0x4200000000000000000000000000000000000010"
+            }
+        ]
     },
     {
         "name": "Hemi",
@@ -54,7 +66,13 @@
         "live": true,
         "network": "Ethereum",
         "L1BridgeAddress": "0x0000000000000000000000000000000000000000",
-        "L2BridgeAddress": "0x0000000000000000000000000000000000000000"
+        "L2BridgeAddress": "0x0000000000000000000000000000000000000000",
+        "lending": [
+            {
+                "type": "Unknown",
+                "address": "0x4200000000000000000000000000000000000010"
+            }
+        ]
     },
     {
         "name": "Starknet",
@@ -73,7 +91,13 @@
         "live": true,
         "network": "Ethereum",
         "L1BridgeAddress": "0x0000000000000000000000000000000000000000",
-        "L2BridgeAddress": "0x0000000000000000000000000000000000000000"
+        "L2BridgeAddress": "0x0000000000000000000000000000000000000000",
+        "lending": [
+            {
+                "type": "Unknown",
+                "address": "0x4200000000000000000000000000000000000010"
+            }
+        ]
     },
     {
         "name": "Tac",
@@ -92,7 +116,13 @@
         "live": true,
         "network": "Ethereum",
         "L1BridgeAddress": "0x0000000000000000000000000000000000000000",
-        "L2BridgeAddress": "0x0000000000000000000000000000000000000000"
+        "L2BridgeAddress": "0x0000000000000000000000000000000000000000",
+        "lending": [
+            {
+                "type": "Unknown",
+                "address": "0x4200000000000000000000000000000000000010"
+            }
+        ]
     },
     {
         "name": "Bitlayer",
@@ -111,7 +141,13 @@
         "live": false,
         "network": "Bitlayer",
         "L1BridgeAddress": "0x0000000000000000000000000000000000000000",
-        "L2BridgeAddress": "0x0000000000000000000000000000000000000000"
+        "L2BridgeAddress": "0x0000000000000000000000000000000000000000",
+        "lending": [
+            {
+                "type": "Unknown",
+                "address": "0x4200000000000000000000000000000000000010"
+            }
+        ]
     },
     {
         "name": "Taiko",
@@ -130,7 +166,13 @@
         "live": false,
         "network": "Hekla",
         "L1BridgeAddress": "0x0000000000000000000000000000000000000000",
-        "L2BridgeAddress": "0x0000000000000000000000000000000000000000"
+        "L2BridgeAddress": "0x0000000000000000000000000000000000000000",
+        "lending": [
+            {
+                "type": "Unknown",
+                "address": "0x4200000000000000000000000000000000000010"
+            }
+        ]
     },
     {
         "name": "Morph",
@@ -142,13 +184,19 @@
         "L2TokenName": "rUSDC-morph",
         "L2TokenAddress": "0x97D91024A97219fe10D154B00c26bAf1D49D955C",
         "L2TokenIsOFT": true,
-        "L2ChainID": 167000,    
+        "L2ChainID": 167000,
         "L2ChainEVM": true,
         "BridgeUrl": "https://bridge-holesky.morphl2.io/",
         "wrappedTokenLogoURI": "https://raw.githubusercontent.com/relend-network/RelendAssets/refs/heads/main/Logos/rUSDC/Hemi/rUSDC-hemi.svg",
         "live": false,
         "network": "Holesky",
         "L1BridgeAddress": "0x0000000000000000000000000000000000000000",
-        "L2BridgeAddress": "0x0000000000000000000000000000000000000000"
+        "L2BridgeAddress": "0x0000000000000000000000000000000000000000",
+        "lending": [
+            {
+                "type": "Unknown",
+                "address": "0x4200000000000000000000000000000000000010"
+            }
+        ]
     }
 ]
