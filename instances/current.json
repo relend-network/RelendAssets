@@ -25,7 +25,7 @@
         ],
         "pools": [
             {
-                "type": "Veldrome",
+                "type": "Velodrome",
                 "address": "0xd2e582fcBE1cE1952a0BE52C8A5eB41445ABFdb5"
             }
         ]
