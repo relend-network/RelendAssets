@@ -24,7 +24,10 @@
             }
         ],
         "pools": [
-            "0xd2e582fcBE1cE1952a0BE52C8A5eB41445ABFdb5"
+            {
+                "type": "Veldrome",
+                "address": "0xd2e582fcBE1cE1952a0BE52C8A5eB41445ABFdb5"
+            }
         ]
     },
     {
