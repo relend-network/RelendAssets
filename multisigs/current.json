@@ -76,5 +76,19 @@
         "address": "0x543A23Fb1eeD644702aF423102952c004Ca74601"
       }
     ]
+  },
+  {
+    "chain": "Tac",
+    "type": "evm",
+    "contracts": [
+      {
+        "name": "Multisig Admin",
+        "address": "0xb8BF31D02A2d1Aaa29786e7ebC42E70Ad07445C3"
+      },
+      {
+        "name": "Timelock Admin",
+        "address": "0xCd4C67a263f2b28e4417E04e2Ae08329a211943a"
+      }
+    ]
   }
 ]
